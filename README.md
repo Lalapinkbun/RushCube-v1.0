@@ -5,6 +5,7 @@ Control
 
 
 Movement:
+
 A - Go Left
 
 D - Go Right
@@ -19,6 +20,7 @@ Right Key - Go Right
 
 
 Details:
+
 Space - Reset Level
 
 
